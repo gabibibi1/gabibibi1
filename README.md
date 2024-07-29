@@ -1,6 +1,6 @@
 Boas Vindas ao meu perfil ⭐
 
- Meu nome é Gabriela Teles
+ Meu nome é **GabrielaTeles**
  
 -Estou estudando na Alura
 
